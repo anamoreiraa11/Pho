@@ -1,0 +1,163 @@
+body {
+    background-color: #f6f2e8;
+}
+
+h2 {
+    background-color: #C5D4EB;
+    text-align-last: center;
+    text-align: center;
+    padding: -9px;
+    width: 99.9%;
+    height: 100%;
+    margin-right: -70%;
+    margin-left: -0.6%;
+    height: 50px;
+    top: -13px;
+    font-size: 15px;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.topo {
+    top: 2%;
+    position: absolute;
+    right: 1%;
+
+}
+
+.figure {
+    top: 10%;
+    height: 15%;
+    margin-left: 6%;
+}
+
+.escrita {
+    margin-top: -25%;
+    margin-left: 40%;
+    position: relative;
+}
+
+.ponto {
+    margin-left: 25%;
+}
+
+.logo {
+    top: -1.5%;
+    position: absolute;
+}
+
+.Img1 {
+    margin-left: 10%;
+}
+
+.Img2 {
+    text-align: center;
+    margin-top: -20.8%;
+}
+
+.Img3 {
+    text-align: right;
+    margin-right: 10%;
+    margin-top: -20.8%;
+}
+
+.text1 {
+    text-align: center;
+    margin-left: -64%;
+
+}
+
+.text2 {
+    text-align: center;
+    margin-left: 0%;
+    margin-top: -6%;
+
+}
+
+.text3 {
+    text-align: center;
+    margin-left: 64%;
+    margin-top: -6.5%;
+
+}
+
+.fieldset {
+    margin-left: 0%;
+    background-color: #fdfdfd;
+    border: none;
+}
+
+.img4 {
+    margin-left: 5%;
+    position: relative;
+}
+
+.img5 {
+    text-align: right;
+    margin-top: -40.4%;
+    margin-right: 5%;
+    position: relative;
+}
+
+.escrita2 {
+    text-align: center;
+    position: relative;
+    margin-top: -30%;
+    font-size: 20px;
+}
+
+.escrita3 {
+    text-align: center;
+    position: relative;
+    margin-top: -0%;
+}
+
+.escrita4 {
+    position: relative;
+    margin-top: -0%;
+    text-align: center;
+    font-size: 15px;
+}
+
+.fieldset2{
+    background-color: #C5D4EB;
+    margin-left: 0%;
+    position: relative;
+    border: none;
+}
+.pelenegra{
+    margin-top: -25%;
+    text-align: center;
+    position: relative;
+    font-size: 150% ;
+}
+.produtosnegros{
+    margin-top: -33.3%;
+    position: relative;
+    text-align: right;
+    margin-right: 3%;
+}
+.mulher{
+    margin-left: 3% ;
+    position: relative;
+}
+.textp{
+    text-align: center;
+}
+.selo1{
+    text-align: left;
+    margin-left: 58%;
+    position: relative;
+    margin-top:-4%;
+}
+.selo2{
+    margin-left: 37%;
+    text-align: left;
+    position: relative;
+    margin-top:-7.1%;
+}
+.insta{
+    margin-top: -6.1%;
+    text-align: center;
+    position: relative;
+}
